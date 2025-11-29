@@ -2,7 +2,7 @@
 title: "Calibrating LLMs for Text-to-SQL Parsing by Leveraging Sub-clause Frequencies"
 collection: publications
 category: conferences
-permalink: /publication/2024-paper-1
+permalink: /publication/2024-10-01-calibration
 excerpt: 'This paper sets up a benchmark for post-hoc calibration of LLM-based text-to-SQL systems.'
 date: 2024
 venue: 'EMNLP 2025'
