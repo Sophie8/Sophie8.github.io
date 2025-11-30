@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "VLLM-Router"
+excerpt: "Open source contribution to [Signal-Decision Driven Architecture: Reshaping Semantic Routing at Scale](https://blog.vllm.ai/2025/11/19/signal-decision.html) <br/><img src='/images/vllm_router.png'>"
 collection: portfolio
 ---
 

@@ -23,7 +23,7 @@ repository               : "sophie8.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "About me"
   pronouns         : # example: "she/her"  
   bio              : "AI Research team lead at Bloomberg AI"
@@ -47,7 +47,7 @@ publication_category:
   conferences:
     title: 'Calibrating LLMs for Text-to-SQL Parsing by Leveraging Sub-clause Frequencies'
     title: 'Novelty Controlled Paraphrase Generation with Retrieval Augmented Conditional Prompt Tuning'
-    title: 'Hyperspectral Image Processing Algorithm'
+    title: 'Advance Text-to-SQL Accuracy with Multi-Agent PExA Framework'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
