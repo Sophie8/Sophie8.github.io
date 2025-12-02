@@ -17,6 +17,7 @@ I obtained master degrees of mathematics and computer science from New York Univ
 My academic and industrial research interest includes semantic parsing, LLM reasoning, tuning strategies for LLM (SFT/RL) and efficient LLM serving.
 
 ## News
++ __Dec 2025:__   Our group will present Semantic Parsing in Bloomberg at Neurips 2025
 + __Nov 2025:__   PExA, an agentic framework that achieved 70.2% execution accuracy, sharing one of the top positions on the [Spider 2.0 (Snow) leaderboard](https://spider2-sql.github.io/) for complex text-to-SQL generation, check the blog [here](https://www.bloomberg.com/company/stories/bloomberg-ai-researchers-advance-text-to-sql-accuracy-with-multi-agent-pexa-framework/).
 + __Oct 2025:__   Paper accepted at EMNLP 2025! check the blog [here](https://www.bloomberg.com/company/stories/bloombergs-ai-researchers-publish-7-papers-at-emnlp-2025/).
 + __Jan 2023:__   Our recent work "Novelty Controlled Paraphrase Generation with Retrieval Augmented Conditional Prompt Tuning" has been accepted at the AAAI 2022!
